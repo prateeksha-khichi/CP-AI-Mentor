@@ -86,45 +86,9 @@ ai-mentor/
 User Level	Benefit
 ✅ Beginners	Detects if you're new and gives a full roadmap with 800–1000 rated problems
 ✅ Intermediate	Reveals your weak topics and gives concept-wise quizzes + practice
-✅ Advanced	Suggests improvement areas and upskills with problemsets and resources
-
-
-📦 Getting Started
-🔧 1. Clone the repo
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/ai-mentor.git
-cd ai-mentor
-📦 2. Install dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-🔐 3. Add API keys
-Create a .env file in gpt-helper/:
-
-env
-Copy
-Edit
-OPENAI_API_KEY=your_openai_key
-GEMINI_API_KEY=your_gemini_key
-▶️ 4. Run the Streamlit app
-bash
-Copy
-Edit
-cd gpt-helper/app
-streamlit run app.py
-🧩 Chrome Extension (Planned)
-We're building a one-click Chrome Extension that:
-
-Auto-fills handle
-
-Opens the web app
-
-Provides real-time feedback
-
+✅ Advanced	Suggests improvement areas and upskills with problemsets and resource
 ✅ Will be available under /chrome-extension soon.
+
 
 ✨ Future Improvements
 📂 Full user dashboard (handle progress, submission logs)
