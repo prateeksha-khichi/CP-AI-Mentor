@@ -107,7 +107,7 @@ Prateeksha Khichi
 
 Codeforeces: @stickydough
 
-LinkedIn: linkedin.com/in/gungunkhichi
+LinkedIn: linkedin.com/in/Prateekshakhichi
 
 Project Status: 🚧 Actively being improved!
 
