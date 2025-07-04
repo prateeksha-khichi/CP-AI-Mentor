@@ -1,0 +1,122 @@
+name,contestId,index,tags,verdict,url
+Shrink,2117,B,constructive algorithms,OK,https://codeforces.com/problemset/problem/2117/B
+Binary String Battle,2123,D,constructive algorithms;games;greedy,OK,https://codeforces.com/problemset/problem/2123/D
+Prefix Min and Suffix Max,2123,C,brute force;data structures,OK,https://codeforces.com/problemset/problem/2123/C
+Tournament,2123,B,greedy,OK,https://codeforces.com/problemset/problem/2123/B
+Blackboard Game,2123,A,math,OK,https://codeforces.com/problemset/problem/2123/A
+Assembly via Minimums,1857,C,greedy;sortings,OK,https://codeforces.com/problemset/problem/1857/C
+Plus Minus Permutation,1872,D,math,OK,https://codeforces.com/problemset/problem/1872/D
+Rudolf and 121,1941,B,brute force;dp;greedy;math,OK,https://codeforces.com/problemset/problem/1941/B
+Rudolf and the Ugly String,1941,C,dp;greedy;strings,TIME_LIMIT_EXCEEDED,https://codeforces.com/problemset/problem/1941/C
+New Year's Number,1475,B,brute force;dp;math,OK,https://codeforces.com/problemset/problem/1475/B
+Filling Shapes,1182,A,dp;math,OK,https://codeforces.com/problemset/problem/1182/A
+Kefa and First Steps,580,A,brute force;dp;implementation,OK,https://codeforces.com/problemset/problem/580/A
+250 Thousand Tons of TNT,1899,B,brute force;implementation;number theory,OK,https://codeforces.com/problemset/problem/1899/B
+Shrinking Array,2112,B,brute force;greedy,OK,https://codeforces.com/problemset/problem/2112/B
+Coloring Game,2112,C,binary search;brute force;greedy;two pointers,OK,https://codeforces.com/problemset/problem/2112/C
+Race,2112,A,implementation;math,OK,https://codeforces.com/problemset/problem/2112/A
+Yarik and Array,1899,C,dp;greedy;two pointers,OK,https://codeforces.com/problemset/problem/1899/C
+Collecting Game,1904,B,binary search;dp;greedy;sortings;two pointers,OK,https://codeforces.com/problemset/problem/1904/B
+Quests,1914,C,greedy;math,OK,https://codeforces.com/problemset/problem/1914/C
+Erase First or Second Letter,1917,B,brute force;combinatorics;data structures;dp;strings,OK,https://codeforces.com/problemset/problem/1917/B
+Square Pool,2120,B,geometry,OK,https://codeforces.com/problemset/problem/2120/B
+Square of Rectangles,2120,A,geometry;math,OK,https://codeforces.com/problemset/problem/2120/A
+Make Almost Equal With Mod,1909,B,bitmasks;constructive algorithms;math;number theory,OK,https://codeforces.com/problemset/problem/1909/B
+Three Activities,1914,D,brute force;dp;greedy;implementation;sortings,OK,https://codeforces.com/problemset/problem/1914/D
+Traffic Light,1744,C,binary search;implementation;two pointers,OK,https://codeforces.com/problemset/problem/1744/C
+Minimum LCM,1765,M,math;number theory,OK,https://codeforces.com/problemset/problem/1765/M
+Distinct Split,1791,D,brute force;greedy;strings,OK,https://codeforces.com/problemset/problem/1791/D
+Make It Increasing,1675,B,greedy;implementation,OK,https://codeforces.com/problemset/problem/1675/B
+AvtoBus,1679,A,brute force;greedy;math;number theory,OK,https://codeforces.com/problemset/problem/1679/A
+Array Coloring,1857,A,greedy;math,OK,https://codeforces.com/problemset/problem/1857/A
+Goals of Victory,1877,A,math,OK,https://codeforces.com/problemset/problem/1877/A
+Those Who Are With Us,2121,C,greedy;greedy;implementation,OK,https://codeforces.com/problemset/problem/2121/C
+Above the Clouds,2121,B,constructive algorithms;greedy;strings,OK,https://codeforces.com/problemset/problem/2121/B
+Letter Home,2121,A,brute force;math,OK,https://codeforces.com/problemset/problem/2121/A
+Make It Permutation,2118,B,constructive algorithms,OK,https://codeforces.com/problemset/problem/2118/B
+Equal Subsequences,2118,A,constructive algorithms;greedy,OK,https://codeforces.com/problemset/problem/2118/A
+False Alarm,2117,A,greedy;implementation,OK,https://codeforces.com/problemset/problem/2117/A
+The Trail,2055,C,brute force;constructive algorithms;greedy;math;two pointers,OK,https://codeforces.com/problemset/problem/2055/C
+Creating Keys for StORages Has Become My Main Skill,2072,C,bitmasks;constructive algorithms;greedy,OK,https://codeforces.com/problemset/problem/2072/C
+Flower Boy,2106,D,binary search;dp;greedy;two pointers,OK,https://codeforces.com/problemset/problem/2106/D
+Kar Salesman,2022,B,binary search;greedy;math,OK,https://codeforces.com/problemset/problem/2022/B
+Nastya Hasn't Written a Legend,1136,E,binary search;data structures,COMPILATION_ERROR,https://codeforces.com/problemset/problem/1136/E
+23 Kingdom,2101,C,binary search;brute force;data structures;greedy;ternary search;two pointers,COMPILATION_ERROR,https://codeforces.com/problemset/problem/2101/C
+Fibonacci Cubes,2111,B,brute force;dp;implementation;math,WRONG_ANSWER,https://codeforces.com/problemset/problem/2111/B
+Energy Crystals,2111,A,greedy;implementation;math,TIME_LIMIT_EXCEEDED,https://codeforces.com/problemset/problem/2111/A
+Vanya and Lanterns,492,B,binary search;implementation;math;sortings,OK,https://codeforces.com/problemset/problem/492/B
+Gellyfish and Tricolor Pansy,2116,A,games;greedy,WRONG_ANSWER,https://codeforces.com/problemset/problem/2116/A
+Li Hua and Maze,1797,A,constructive algorithms;flows;graphs;greedy;implementation,OK,https://codeforces.com/problemset/problem/1797/A
+PolandBall and Hypothesis,755,A,brute force;graphs;math;number theory,OK,https://codeforces.com/problemset/problem/755/A
+Gregor and the Pawn Game,1549,B,dfs and similar;dp;flows;graph matchings;graphs;greedy;implementation,OK,https://codeforces.com/problemset/problem/1549/B
+Destroying Bridges,1944,A,graphs;greedy;math,OK,https://codeforces.com/problemset/problem/1944/A
+Love Triangle,939,A,graphs,OK,https://codeforces.com/problemset/problem/939/A
+Array merging,1831,B,constructive algorithms;greedy,OK,https://codeforces.com/problemset/problem/1831/B
+Kirei Attacks the Estate,2114,E,dfs and similar;dp;greedy;trees,SKIPPED,https://codeforces.com/problemset/problem/2114/E
+Small Operations,2114,F,binary search;brute force;dfs and similar;dp;math;number theory;sortings,SKIPPED,https://codeforces.com/problemset/problem/2114/F
+Come a Little Closer,2114,D,brute force;greedy;implementation;math,SKIPPED,https://codeforces.com/problemset/problem/2114/D
+Need More Arrays,2114,C,dp;greedy,SKIPPED,https://codeforces.com/problemset/problem/2114/C
+Not Quite a Palindromic String,2114,B,greedy;math,SKIPPED,https://codeforces.com/problemset/problem/2114/B
+Square Year,2114,A,binary search;brute force;math,SKIPPED,https://codeforces.com/problemset/problem/2114/A
+Arpa’s hard exam and Mehrdad’s naive cheat,742,A,implementation;math;number theory,OK,https://codeforces.com/problemset/problem/742/A
+Vasya and Petya's Game,576,A,math;number theory,OK,https://codeforces.com/problemset/problem/576/A
+k-Factorization,797,A,implementation;math;number theory,OK,https://codeforces.com/problemset/problem/797/A
+Dima and Lisa,584,D,brute force;math;number theory,OK,https://codeforces.com/problemset/problem/584/D
+Design Tutorial: Learn from Math,472,A,math;number theory,OK,https://codeforces.com/problemset/problem/472/A
+T-primes,230,B,binary search;implementation;math;number theory,OK,https://codeforces.com/problemset/problem/230/B
+Down with Brackets,2110,B,strings,OK,https://codeforces.com/problemset/problem/2110/B
+Fashionable Array,2110,A,implementation;sortings,OK,https://codeforces.com/problemset/problem/2110/A
+Ski Resort,1840,C,combinatorics;math;two pointers,OK,https://codeforces.com/problemset/problem/1840/C
+Monsters,1849,B,greedy;math;sortings,OK,https://codeforces.com/problemset/problem/1849/B
+Olya and Game with Arrays,1859,B,constructive algorithms;greedy;math;sortings,OK,https://codeforces.com/problemset/problem/1859/B
+Helmets in Night Light,1876,A,greedy;sortings,OK,https://codeforces.com/problemset/problem/1876/A
+Raspberries,1883,C,dp;math,OK,https://codeforces.com/problemset/problem/1883/C
+Hacking Numbers (Easy Version),2109,C1,bitmasks;constructive algorithms;interactive;math;number theory,WRONG_ANSWER,https://codeforces.com/problemset/problem/2109/C1
+Slice to Survive,2109,B,bitmasks;greedy;math,OK,https://codeforces.com/problemset/problem/2109/B
+It's Time To Duel,2109,A,implementation,OK,https://codeforces.com/problemset/problem/2109/A
+Guess the Number,101021,1,,OK,https://codeforces.com/problemset/problem/101021/1
+NIT Destroys the Universe,1696,B,greedy,OK,https://codeforces.com/problemset/problem/1696/B
+Swap and Delete,1913,B,strings,OK,https://codeforces.com/problemset/problem/1913/B
+Mainak and Array,1726,A,greedy;math,OK,https://codeforces.com/problemset/problem/1726/A
+Not Dividing,1794,B,constructive algorithms;greedy;math,OK,https://codeforces.com/problemset/problem/1794/B
+Odd Queries,1807,D,data structures;implementation,OK,https://codeforces.com/problemset/problem/1807/D
+Permutation Swap,1828,B,math;number theory,OK,https://codeforces.com/problemset/problem/1828/B
+Comparison String,1837,B,greedy,OK,https://codeforces.com/problemset/problem/1837/B
+Balanced Round,1850,D,brute force;greedy;implementation;sortings,OK,https://codeforces.com/problemset/problem/1850/D
+Longest Divisors Interval,1855,B,brute force;combinatorics;greedy;math;number theory,OK,https://codeforces.com/problemset/problem/1855/B
+Mex in the Grid,2102,C,constructive algorithms,OK,https://codeforces.com/problemset/problem/2102/C
+The Picky Cat,2102,B,implementation;sortings,OK,https://codeforces.com/problemset/problem/2102/B
+Dinner Time,2102,A,constructive algorithms;math,OK,https://codeforces.com/problemset/problem/2102/A
+Make It Zero,1869,A,constructive algorithms,OK,https://codeforces.com/problemset/problem/1869/A
+Jellyfish and Undertale,1875,A,brute force;greedy,OK,https://codeforces.com/problemset/problem/1875/A
+Vasilije in Cacak,1878,C,math,OK,https://codeforces.com/problemset/problem/1878/C
+Chemistry,1883,B,strings,OK,https://codeforces.com/problemset/problem/1883/B
+Forked!,1904,A,brute force;implementation,OK,https://codeforces.com/problemset/problem/1904/A
+Two Permutations,1761,A,brute force;constructive algorithms,OK,https://codeforces.com/problemset/problem/1761/A
+Extremely Round,1766,A,brute force;implementation,OK,https://codeforces.com/problemset/problem/1766/A
+Everybody Likes Good Arrays!,1777,A,greedy;math,OK,https://codeforces.com/problemset/problem/1777/A
+Make it Beautiful,1783,A,constructive algorithms;math;sortings,OK,https://codeforces.com/problemset/problem/1783/A
+One and Two,1788,A,brute force;implementation;math,OK,https://codeforces.com/problemset/problem/1788/A
+Unit Array,1834,A,greedy;math,WRONG_ANSWER,https://codeforces.com/problemset/problem/1834/A
+Grasshopper on a Line,1837,A,constructive algorithms;math,OK,https://codeforces.com/problemset/problem/1837/A
+Forbidden Integer,1845,A,constructive algorithms;implementation;math;number theory,OK,https://codeforces.com/problemset/problem/1845/A
+Desorting,1853,A,brute force;greedy;math,OK,https://codeforces.com/problemset/problem/1853/A
+Buttons,1858,A,games;greedy;math,OK,https://codeforces.com/problemset/problem/1858/A
+United We Stand,1859,A,constructive algorithms;math;number theory,OK,https://codeforces.com/problemset/problem/1859/A
+Sequence Game,1862,B,constructive algorithms,OK,https://codeforces.com/problemset/problem/1862/B
+Ambitious Kid,1866,A,math,OK,https://codeforces.com/problemset/problem/1866/A
+Target Practice,1873,C,implementation;math,OK,https://codeforces.com/problemset/problem/1873/C
+How Much Does Daytona Cost?,1878,A,greedy,OK,https://codeforces.com/problemset/problem/1878/A
+Don't Try to Count,1881,A,brute force;strings,OK,https://codeforces.com/problemset/problem/1881/A
+Doremy's Paint 3,1890,A,constructive algorithms,OK,https://codeforces.com/problemset/problem/1890/A
+Jagged Swaps,1896,A,sortings,OK,https://codeforces.com/problemset/problem/1896/A
+Game with Integers,1899,A,games;math;number theory,OK,https://codeforces.com/problemset/problem/1899/A
+Cover in Water,1900,A,constructive algorithms;greedy;implementation;strings,WRONG_ANSWER,https://codeforces.com/problemset/problem/1900/A
+Line Trip,1901,A,greedy;math,OK,https://codeforces.com/problemset/problem/1901/A
+Halloumi Boxes,1903,A,brute force;greedy;sortings,OK,https://codeforces.com/problemset/problem/1903/A
+Maximum Subarray Sum,2107,C,binary search;constructive algorithms;dp;implementation;math,WRONG_ANSWER,https://codeforces.com/problemset/problem/2107/C
+Apples in Boxes,2107,B,games;greedy;math,OK,https://codeforces.com/problemset/problem/2107/B
+LRC and VIP,2107,A,greedy;number theory,OK,https://codeforces.com/problemset/problem/2107/A
+Wonderful Sticks,2096,A,constructive algorithms;greedy,OK,https://codeforces.com/problemset/problem/2096/A
+Two Screens,2025,A,binary search;greedy;strings;two pointers,OK,https://codeforces.com/problemset/problem/2025/A
+Bit++,282,A,implementation,OK,https://codeforces.com/problemset/problem/282/A

@@ -1,0 +1,24 @@
+tag,solved,total,accuracy (%)
+interactive,0,1,0.0
+ternary search,0,1,0.0
+trees,0,1,0.0
+dfs and similar,1,3,33.33
+data structures,3,5,60.0
+binary search,8,13,61.54
+dp,11,17,64.71
+bitmasks,3,4,75.0
+strings,8,10,80.0
+games,4,5,80.0
+greedy,48,58,82.76
+implementation,25,30,83.33
+brute force,25,30,83.33
+math,49,58,84.48
+constructive algorithms,23,26,88.46
+two pointers,8,9,88.89
+number theory,17,19,89.47
+sortings,13,14,92.86
+graphs,5,5,100.0
+combinatorics,3,3,100.0
+graph matchings,1,1,100.0
+flows,2,2,100.0
+geometry,2,2,100.0
